@@ -1,1 +1,6 @@
 temp note before switching branch
+ee data fetch ayidi git hub loki
+
+
+
+from here we  need to see weather it is fetching or not
