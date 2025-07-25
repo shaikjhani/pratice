@@ -1,2 +1,0 @@
-neku 10 lo 6.01 cgpa
-testing weather the file is gona be pulled or not 
